@@ -1,4 +1,4 @@
 # ParFlow_wtd_extraction
 The study area, known as the Zwischenscholle Aquifer, encompasses 504 points of interest. Among these, 328 points have recorded values for water table depth (e.g., monthly data for the year 2023). For the remaining 176 points, the results indicate that they are located on a lake, river, or ocean. However, the raster file for the monthly water table depth in 2023, shows that these points, which are marked with a warning, do have water table depth values. I have attached an image of the study area boundary with the 504 points of interest, the points located on water bodies (marked with warnings), and the water table depth raster for your reference.
 
-Attached is the Pyton scripts for ParFlow water table depth data extraction, titled "scripts_extraction_wtd_data" as well as the JSON file. 
+Attached is the Pyton scripts for ParFlow water table depth data extraction, titled "scripts_extraction_wtd_data" as well as the associated JSON file. 
